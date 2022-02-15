@@ -1,5 +1,5 @@
-ami = "ami-01893222c83843146"
+ami = "ami-0e472ba40eb589f49"
 type = "t2.micro"
-subnet = "subnet-044df2222df6e3a5f"
+subnet = "subnet-03ad770fee2e9e6c0"
 tag = "linux_instnace"
 key = "linux"
