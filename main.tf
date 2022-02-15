@@ -1,6 +1,6 @@
 # create ec2 instance 
 
-resource "aws_instance" "test" {
+resource "aws_instance" "new" {
   ami           = var.ami
   instance_type = var.type
   subnet_id = var.subnet
@@ -10,4 +10,3 @@ resource "aws_instance" "test" {
     Name = var.tag
   }
 }
-
