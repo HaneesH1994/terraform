@@ -1,6 +1,6 @@
 variable "ami" {
   type    = string
-  default = "ami-0a8b4cd432b1c3063"
+  default = "ami-0e472ba40eb589f49"
 }
 
 variable "type" {
@@ -10,13 +10,13 @@ variable "type" {
 
 variable "subnet" {
   type    = string
-  default = "subnet-0afc25030f21a9618"
+  default = "subnet-03ad770fee2e9e6c0"
 }
 
 
 variable "key" {
   type    = string
-  default = "linux"
+  default = "hinux"
 }
 
 variable "tag" {
