@@ -1,5 +1,6 @@
 ami = "ami-0e472ba40eb589f49"
 type = "t2.micro"
-subnet = "subnet-03ad770fee2e9e6c0"
+subnet = "subnet-0ff88fa8c9c77e610"
+group = "sg-0dde778412890ae5a"
 tag = "linux_instnace"
 key = "hinux"
