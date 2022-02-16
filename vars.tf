@@ -13,12 +13,6 @@ variable "subnet" {
   default = "subnet-0ff88fa8c9c77e610"
 }
 
-variable "group" {
-  type    = string
-  default = "subnet-0ff88fa8c9c77e610"
-}
-
-
 variable "key" {
   type    = string
   default = "hinux"
