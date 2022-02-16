@@ -10,7 +10,12 @@ variable "type" {
 
 variable "subnet" {
   type    = string
-  default = "subnet-03ad770fee2e9e6c0"
+  default = "subnet-0ff88fa8c9c77e610"
+}
+
+variable "group" {
+  type    = string
+  default = "subnet-0ff88fa8c9c77e610"
 }
 
 
