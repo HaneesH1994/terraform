@@ -3,7 +3,7 @@ terraform {
     encrypt = true
     bucket = "blackdog96"
     region = "us-east-1"
-    key = "whisky/terraform.tfstate"
+    key = "brandy/terraform.tfstate"
   }
 }
 
